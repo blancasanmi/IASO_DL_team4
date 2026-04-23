@@ -16,7 +16,8 @@ We built deep learning models to predict biomass quantity from the kaggle compet
 - we subdivided into two groups of three in which every member had to run the models and hyperparameter tuning, from there the subgroups decided on a common best model strategy and evaluated them on the test data
 
 ## Evaluation notebook 
-- this last notebook was made to capture all the information from the evaluation on the different models and plot and analyse all the relevant things
+- this last notebook was made to capture all the information from the evaluation on the different models and plot and analyse all the relevant 
+- update: we extended on this notebook to be able to go deeper on the interpretation of the results
 
 ## Bonus
 - striking to always achieve more, one of our members also trained a visual transformer (ViT). Our aim was to see what were the main differences in the results, compared to a CNN
